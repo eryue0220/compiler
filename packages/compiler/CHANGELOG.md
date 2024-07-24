@@ -1,5 +1,11 @@
 # @astrojs/compiler
 
+## 2.9.3
+
+### Patch Changes
+
+- 7fa6577: Transform top level returns into throws in the TSX output
+
 ## 2.9.2
 
 ### Patch Changes
